@@ -8,6 +8,7 @@ void main(void)
 {
 	int i,
 		nTrono = INT_MIN,
+		nTronoMenor = INT_MAX,
 		nDigitada;
 	BRASIL;
 
@@ -20,8 +21,14 @@ void main(void)
 		{
 			nTrono = nDigitada;
 		}
+
+		if (nDigitada < nTronoMenor)
+		{
+			nTronoMenor = nDigitada;
+		}
 	}// for i
 
-	cout << "A maior inteira é: " << nTrono << endl;
+	cout << "A maior inteira é: " << nTrono << endl 
+		 << "A menor inteira é : " << nTronoMenor << endl;
 	PAUSA;
 }// main
