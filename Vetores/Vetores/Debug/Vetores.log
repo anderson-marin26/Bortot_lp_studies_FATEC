@@ -1,7 +1,5 @@
 ﻿  main.cpp
-c:\users\anderson\documents\fatec\bortot_lp\vetores\vetores\main.cpp(9): warning C4101: 'vetInteiras': unreferenced local variable
 c:\users\anderson\documents\fatec\bortot_lp\vetores\vetores\main.cpp(7): warning C4101: 'k': unreferenced local variable
 c:\users\anderson\documents\fatec\bortot_lp\vetores\vetores\main.cpp(12): warning C4101: 'vtChar': unreferenced local variable
-c:\users\anderson\documents\fatec\bortot_lp\vetores\vetores\main.cpp(7): warning C4101: 'j': unreferenced local variable
   Vetores.vcxproj -> C:\Users\Anderson\Documents\fatec\bortot_lp\Vetores\Debug\Vetores.exe
   Vetores.vcxproj -> C:\Users\Anderson\Documents\fatec\bortot_lp\Vetores\Debug\Vetores.pdb (Full PDB)

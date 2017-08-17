@@ -9,3 +9,6 @@ using namespace std;
 #define LIMPAR_TELA		system("cls")
 #define BRASIL			setlocale(LC_ALL, "portuguese_brazil")
 #define QTDE_INTEIRAS	1000
+
+// Prototipos
+void ListarVetorInteiras(int vetorInteiras[], int nQtde, int nQtdePorLinha);
