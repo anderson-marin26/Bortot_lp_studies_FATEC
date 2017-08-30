@@ -1,0 +1,7 @@
+﻿  Vetores.cpp
+c:\users\fatec\documents\visual studio 2015\projects\ensaiovetoressegsem_2017_noite\ensaiovetoressegsem_2017_noite\vetores.cpp(13): warning C4101: 'vetResultado': unreferenced local variable
+c:\users\fatec\documents\visual studio 2015\projects\ensaiovetoressegsem_2017_noite\ensaiovetoressegsem_2017_noite\vetores.cpp(9): warning C4101: 'k': unreferenced local variable
+  Funcoes.cpp
+  Generating Code...
+  EnsaioVetoresSegSem_2017_Noite.vcxproj -> C:\Users\Fatec\Documents\Visual Studio 2015\Projects\EnsaioVetoresSegSem_2017_Noite\Debug\EnsaioVetoresSegSem_2017_Noite.exe
+  EnsaioVetoresSegSem_2017_Noite.vcxproj -> C:\Users\Fatec\Documents\Visual Studio 2015\Projects\EnsaioVetoresSegSem_2017_Noite\Debug\EnsaioVetoresSegSem_2017_Noite.pdb (Full PDB)
