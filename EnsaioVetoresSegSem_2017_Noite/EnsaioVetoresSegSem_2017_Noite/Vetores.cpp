@@ -8,6 +8,8 @@ void main(void)
 {
 	int i, j, k,							// indexadores e contadores genéricos
 		vtInt[] = { 23, 456, 567, 10067, 800, -300, 5678, 56 },
+		nPrimeira,
+		nSegunda,
 		vetInteiras[QTDE_INTEIRAS],
 		vtInteiras[QTDE_OUTRA],				// outro vetor de inteiras
 		vetResultado[QTDE_INTEIRAS + QTDE_OUTRA];
@@ -75,6 +77,78 @@ void main(void)
 	LIMPAR_TELA;
 	cout << "\n\tListagem do vetor de char vtChar" << endl;
 	ListarVetorChar(vtChar, sizeof(vtChar) / sizeof(char), 40);
+
+	// inicializar com valores randômicos
+	srand(300);									// semente random
+	for (i = 0; i < QTDE_INTEIRAS; i++)
+	{
+		vetInteiras[i] = rand();				// a inteira recebe um random 0 a 32k
+		if (rand() % 2 == 1)						// vai tornar negativo?
+			vetInteiras[i] *= -1;				// torna negativo
+	}
+	BubleSort(vetInteiras, QTDE_INTEIRAS, true);
+	LIMPAR_TELA;
+	cout << "\n\tListagem do primeiro vetor" << endl;
+	ListarVetorInteiras(vetInteiras, QTDE_INTEIRAS, 9);
+
+	for (i = 0; i < QTDE_OUTRA; i++)
+	{
+		vtInteiras[i] = rand();				// a inteira recebe um random 0 a 32k
+		if (rand() % 2 == 1)						// vai tornar negativo?
+			vtInteiras[i] *= -1;				// torna negativo
+	}
+	BubleSort(vtInteiras, QTDE_OUTRA, true);
+	LIMPAR_TELA;
+	cout << "\n\tListagem do segundo Vetor" << endl;
+	ListarVetorInteiras(vtInteiras, QTDE_OUTRA, 9);
+
+	//
+	// Merge de dois vetores
+	// i --> vetInteiras, j --> vtInteiras, k --> vetResultado
+	for (i = j = k = 0; k < QTDE_INTEIRAS +  QTDE_OUTRA; )
+	{
+		if (i == QTDE_INTEIRAS)
+		{
+			nPrimeira = INT_MAX;
+		}
+		else
+		{
+			nPrimeira = vetInteiras[i];
+		}
+
+		if (j == QTDE_OUTRA)
+		{
+			nSegunda = INT_MAX;
+		}
+		else
+		{
+			nSegunda = vtInteiras[j];
+		}
+
+		//Analisar a nPrimeira em relação a nSegunda
+		//
+		if (nPrimeira == nSegunda)
+		{
+			vetResultado[k++] = nPrimeira;
+			i++;
+			vetResultado[k++] = nSegunda;
+			j++;
+		}
+		else if (nPrimeira > nSegunda)
+		{
+			vetResultado[k++] = nSegunda;
+			j++;
+		}
+		else
+		{
+			vetResultado[k++] = nPrimeira;
+			i++;
+		}
+	}// for k
+
+	LIMPAR_TELA;
+	cout << "\n\tListagem do resultado do merge de vetores:" << endl;
+	ListarVetorInteiras(vetResultado, QTDE_INTEIRAS + QTDE_OUTRA, 9);
 } // main
 // Função que lista vetor de inteiras 
 // Parâmetros:

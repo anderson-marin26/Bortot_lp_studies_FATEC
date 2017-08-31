@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\anderson\documents\fatec\bortot_lp\raul_gil\raul_gil\header.h(1): warning C4068: unknown pragma
+c:\users\anderson\documents\fatec\bortot_lp\raul_gil\raul_gil\main.cpp(9): warning C4101: 'j': unreferenced local variable
+  raul_gil.vcxproj -> C:\Users\Anderson\Documents\fatec\bortot_lp\raul_gil\Debug\raul_gil.exe
+  raul_gil.vcxproj -> C:\Users\Anderson\Documents\fatec\bortot_lp\raul_gil\Debug\raul_gil.pdb (Full PDB)
