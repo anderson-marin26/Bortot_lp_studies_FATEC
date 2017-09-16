@@ -23,3 +23,5 @@ typedef struct tagCALOURO
 }CALOURO;
 
 // protótipos das funções
+void BubbleSort(int nQt, CALOURO vtCalouros[], bool flgTipoSort);
+void ListarCalouros(int nQt, CALOURO vtCalouros[], char szCabecalho);

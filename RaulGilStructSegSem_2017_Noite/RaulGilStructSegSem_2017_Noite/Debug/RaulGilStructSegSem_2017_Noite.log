@@ -1,5 +1,4 @@
 ﻿  RaulGil.cpp
-c:\users\fatec\documents\visual studio 2015\projects\raulgilstructsegsem_2017_noite\raulgilstructsegsem_2017_noite\raulgil.cpp(10): warning C4101: 'nQtde': unreferenced local variable
-c:\users\fatec\documents\visual studio 2015\projects\raulgilstructsegsem_2017_noite\raulgilstructsegsem_2017_noite\raulgil.cpp(9): warning C4101: 'j': unreferenced local variable
-  RaulGilStructSegSem_2017_Noite.vcxproj -> c:\users\fatec\documents\visual studio 2015\Projects\RaulGilStructSegSem_2017_Noite\Debug\RaulGilStructSegSem_2017_Noite.exe
-  RaulGilStructSegSem_2017_Noite.vcxproj -> c:\users\fatec\documents\visual studio 2015\Projects\RaulGilStructSegSem_2017_Noite\Debug\RaulGilStructSegSem_2017_Noite.pdb (Full PDB)
+c:\users\anderson\documents\fatec\bortot_lp\raulgilstructsegsem_2017_noite\raulgilstructsegsem_2017_noite\raulgil.cpp(9): warning C4101: 'j': unreferenced local variable
+  RaulGilStructSegSem_2017_Noite.vcxproj -> C:\Users\Anderson\Documents\fatec\bortot_lp\RaulGilStructSegSem_2017_Noite\Debug\RaulGilStructSegSem_2017_Noite.exe
+  RaulGilStructSegSem_2017_Noite.vcxproj -> C:\Users\Anderson\Documents\fatec\bortot_lp\RaulGilStructSegSem_2017_Noite\Debug\RaulGilStructSegSem_2017_Noite.pdb (Full PDB)
