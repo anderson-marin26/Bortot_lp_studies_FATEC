@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\anderson\documents\fatec\bortot_lp\exercicio_ponteiros_piscina\exercicio_ponteiros_piscina\main.cpp(10): warning C4101: 'i': unreferenced local variable
+c:\users\anderson\documents\fatec\bortot_lp\exercicio_ponteiros_piscina\exercicio_ponteiros_piscina\main.cpp(17): warning C4101: 'stRaia': unreferenced local variable
+  exercicio_ponteiros_piscina.vcxproj -> C:\Users\Anderson\Documents\fatec\bortot_lp\exercicio_ponteiros_piscina\Debug\exercicio_ponteiros_piscina.exe
+  exercicio_ponteiros_piscina.vcxproj -> C:\Users\Anderson\Documents\fatec\bortot_lp\exercicio_ponteiros_piscina\Debug\exercicio_ponteiros_piscina.pdb (Full PDB)
