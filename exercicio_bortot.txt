@@ -1,0 +1,12 @@
+Declarar vetor(vetAvaliacao) com 22 inteiras.
+Com semente Random 18 preencher as inteiras com valores abaixo de 1000(positivo)
+Listar de 5 em 5 por linha na forma :
+	i - inteira
+
+EM UM LOOP SÓ:
+	Declarar um vetor de 5 inteiras (nIndice) e uma inteira do maior valor de vetAvaliacao entre os indices sorteados
+	O sorteio cada indice menor que 22
+	Nao pode haver indice repetido
+	Listar cada indice e o valor
+
+Exibir o indice e o maior valor
