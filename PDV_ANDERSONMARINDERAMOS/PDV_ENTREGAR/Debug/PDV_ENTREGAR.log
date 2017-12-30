@@ -1,0 +1,4 @@
+﻿  Main.cpp
+c:\users\anderson\documents\fatec\bortot_lp\pdv_andersonmarinderamos\pdv_entregar\main.cpp(25): warning C4293: '>>': shift count negative or too big, undefined behavior
+  PDV_ENTREGAR.vcxproj -> C:\Users\Anderson\Documents\fatec\bortot_lp\PDV_ANDERSONMARINDERAMOS\Debug\PDV_ENTREGAR.exe
+  PDV_ENTREGAR.vcxproj -> C:\Users\Anderson\Documents\fatec\bortot_lp\PDV_ANDERSONMARINDERAMOS\Debug\PDV_ENTREGAR.pdb (Full PDB)

@@ -1,0 +1,9 @@
+﻿  Funcoes.cpp
+c:\users\anderson\desktop\lp_prova_p1_11_10_2017_noite\hotel_lp_prova\funcoes.cpp(71): warning C4477: 'sprintf_s' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'char *'
+c:\users\anderson\desktop\lp_prova_p1_11_10_2017_noite\hotel_lp_prova\funcoes.cpp(71): warning C4477: 'sprintf_s' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'double'
+c:\users\anderson\desktop\lp_prova_p1_11_10_2017_noite\hotel_lp_prova\funcoes.cpp(71): warning C4477: 'sprintf_s' : format string '%d' requires an argument of type 'int', but variadic argument 3 has type 'double'
+c:\users\anderson\desktop\lp_prova_p1_11_10_2017_noite\hotel_lp_prova\funcoes.cpp(71): warning C4477: 'sprintf_s' : format string '%d' requires an argument of type 'int', but variadic argument 4 has type 'double'
+c:\users\anderson\desktop\lp_prova_p1_11_10_2017_noite\hotel_lp_prova\funcoes.cpp(94): warning C4101: 'cWork': unreferenced local variable
+c:\users\anderson\desktop\lp_prova_p1_11_10_2017_noite\hotel_lp_prova\funcoes.cpp(166): warning C4101: 'stTime': unreferenced local variable
+  Hotel_LP_Prova.vcxproj -> C:\Users\Anderson\Desktop\LP_Prova_P1_11_10_2017_Noite\Debug\Hotel_LP_Prova.exe
+  Hotel_LP_Prova.vcxproj -> C:\Users\Anderson\Desktop\LP_Prova_P1_11_10_2017_Noite\Debug\Hotel_LP_Prova.pdb (Full PDB)

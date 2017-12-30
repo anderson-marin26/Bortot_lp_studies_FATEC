@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Hotel_LP_Prova">
+</Property><Property Name="Solution File" Value="G:\Hotel_LP_Prova\Hotel_LP_Prova.sln">
+</Property><Property Name="User Options File" Value="G:\Hotel_LP_Prova\Hotel_LP_Prova.suo">
+</Property><Property Name="Date" Value="sexta-feira, 22 de outubro de 2010">
+</Property><Property Name="Time" Value="19:11">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Hotel_LP_Prova.sln" Description="File successfully backed up as G:\Hotel_LP_Prova\Hotel_LP_Prova.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="Hotel_LP_Prova.suo" Description="File successfully backed up as G:\Hotel_LP_Prova\Hotel_LP_Prova.suo.old">
+</Event><Event ErrorLevel="0" Project="Hotel_LP_Prova" Source="Hotel_LP_Prova\Hotel_LP_Prova.vcproj" Description="Converting project file 'G:\Hotel_LP_Prova\Hotel_LP_Prova\Hotel_LP_Prova.vcproj'.">
+</Event><Event ErrorLevel="1" Project="Hotel_LP_Prova" Source="Hotel_LP_Prova\Hotel_LP_Prova.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="Hotel_LP_Prova" Source="Hotel_LP_Prova\Hotel_LP_Prova.vcproj" Description="Done converting to new project file 'G:\Hotel_LP_Prova\Hotel_LP_Prova\Hotel_LP_Prova.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="Hotel_LP_Prova" Source="Hotel_LP_Prova\Hotel_LP_Prova.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Hotel_LP_Prova.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Hotel_LP_Prova.sln" Description="Converted">
+</Event></UpgradeLog>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Hotel_LP_Prova">
+</Property><Property Name="Solution File" Value="C:\Users\jbort\OneDrive\Documents\Visual Studio 2010\Projects\LP_Prova_B1_11_09_2013_Tarde\Hotel_LP_Prova.sln">
+</Property><Property Name="Date" Value="segunda-feira, 9 de outubro de 2017">
+</Property><Property Name="Time" Value="20:23">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="Hotel_LP_Prova" Source="Hotel_LP_Prova\Hotel_LP_Prova.vcproj" Description="Converting project file 'C:\Users\jbort\OneDrive\Documents\Visual Studio 2010\Projects\LP_Prova_B1_11_09_2013_Tarde\Hotel_LP_Prova\Hotel_LP_Prova.vcproj'.">
+</Event><Event ErrorLevel="1" Project="Hotel_LP_Prova" Source="Hotel_LP_Prova\Hotel_LP_Prova.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="Hotel_LP_Prova" Source="Hotel_LP_Prova\Hotel_LP_Prova.vcproj" Description="Done converting to new project file 'C:\Users\jbort\OneDrive\Documents\Visual Studio 2010\Projects\LP_Prova_B1_11_09_2013_Tarde\Hotel_LP_Prova\Hotel_LP_Prova.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="Hotel_LP_Prova" Source="Hotel_LP_Prova\Hotel_LP_Prova.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Hotel_LP_Prova.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Hotel_LP_Prova.sln" Description="Converted">
+</Event></UpgradeLog>
